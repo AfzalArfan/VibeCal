@@ -17,7 +17,7 @@ The Strategy: Plan everything upfront. If the roadmap is solid, maybe I won't ab
 📊 Project Tracking
 I’m using Notion to track every milestone, bug, and "why did I start this" moment.
 
-🔗 View the VibeCal Tracker - [https://www.notion.so/VibeCal-324f0bc1e3ef801e95c0c2f3ee7b1fbf?source=copy_link](Vibe_Cal_Note)
+🔗 View the [Vibe_Cal_Tracker](https://www.notion.so/VibeCal-324f0bc1e3ef801e95c0c2f3ee7b1fbf?source=copy_link)
 
 🛠️ Tech Stack (The "I'll figure it out" list)
 Language: Kotlin (Pending "Hello World" proficiency)
