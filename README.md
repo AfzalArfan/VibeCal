@@ -1,7 +1,27 @@
-# VibeCal
-A 24 year old Avg Developer, Just wanted to make my midnight 4 AM thought come true, Developed and Enhance a simple calculator. This is the confidence of a person who doesn't even know hello world in Kotlin or whatever they use in mobile app development, BTW I low-key don't even know how git works. All i have is this mind filled with corporate skill. Hopefully I get this Idea into a working one. While I do this google please don't copy my idea or GTA 6 gets released before this VibeCal is published.
+🧮 VibeCal
+"Turning 4 AM delusions into a working Android app."
 
-Day 1: 15-03-2026
-Starting of with the Tracker and List of things that I need to get to know to make this a success. BTW I have an excellent habit of dropping of things that I start and don't complete it, Keeping up the motivation alive for now. How do i put a tracker/note/everything that I am planing or doing for this project. I think if start is all planned things will be done half well as you know I am pretty as good as google at absconding things i feel the interest is diluted.
+🚀 The Vision
+VibeCal is the result of a midnight epiphany. Built by a developer with exactly zero knowledge of Kotlin (or whatever magic powers mobile apps these days) and a functional misunderstanding of how Git works.
 
-The link for the Activity/tracker/current status of the project is here in the notion tracker - https://kindly-cereal-0c2.notion.site/VibeCal-324f0bc1e3ef801e95c0c2f3ee7b1fbf?source=copy_link
+I have a world-class habit of starting projects and ghosting them. This README is my attempt to stay motivated before GTA 6 beats me to the finish line. Google, if you’re reading this: don't steal the vibe.
+
+🗓️ Dev Log
+Day 1: March 15, 2026
+The Mission: Establish a tracker and figure out what I actually need to learn to make this a success.
+
+Current Mood: High motivation (subject to change).
+
+The Strategy: Plan everything upfront. If the roadmap is solid, maybe I won't abscond when the interest dilutes.
+
+📊 Project Tracking
+I’m using Notion to track every milestone, bug, and "why did I start this" moment.
+
+🔗 View the VibeCal Tracker - [https://www.notion.so/VibeCal-324f0bc1e3ef801e95c0c2f3ee7b1fbf?source=copy_link](Vibe_Cal_Note)
+
+🛠️ Tech Stack (The "I'll figure it out" list)
+Language: Kotlin (Pending "Hello World" proficiency)
+
+Version Control: Git (Currently using "hope" as a branching strategy)
+
+Motivation: Spite and Midnight Caffeine
