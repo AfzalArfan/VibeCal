@@ -1,0 +1,12 @@
+# Android / Kotlin standard ignore list
+/build
+/*/build
+*.apk
+*.aar
+.idea/
+*.iml
+.gradle/
+local.properties
+*.log
+.DS_Store
+Thumbs.db
